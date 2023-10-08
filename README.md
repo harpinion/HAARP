@@ -4,6 +4,7 @@ This project will give the possibility to search and prove the existance of HAAR
 It will describe how an simple automated station for measurements can be build.  
 With this software the activity is recorded and illustrated in daily heatmap graphics.  
 A short description in german and english is included.
+This includes links and a circuit diagram for the hardware / receiver.
 
 
 The standard directory for running haarpscan is **/srv/SDR/**  
@@ -19,3 +20,8 @@ examples | some old examples
 
 
 In the directory week you will find an overview of the measurements of the last years.
+Additionally you will find locally measured weather data from the same place as the receiver of the HAARP radio waves.
+The location is in the region cologne in germany.
+
+All the measured source data (archive) from 2017 - 2023 is 142 GB packed data.
+The generated daily images (waterfal diagrams as png files) are now 201 GB of data.
