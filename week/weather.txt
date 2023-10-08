@@ -1,0 +1,45 @@
+The weather data is measured locally at the same place as the HAARP radio waves.
+This can be compared with HAARP activity.
+
+Description of the columns:
+
+"nk_wetter_ic";	Dataset-ID
+"dt_timestamp";	Time of measurement
+"ns_mbar";		air pressure
+"ni_feucht_11_out";	air humidity (+50 cm)
+"ns_temp_ds_erd";	temperature in the earth (-20 cm)
+"ns_temp_ds_boden";	air temperature (+5 cm)
+"ns_temp_ds_out";	air temperature (+50 cm)
+"ns_cf_pm1_0";		air particle 0.3-1.0 µm concentration
+"ns_cf_pm2_5";		air particle 1.0-2.5 µm concentration
+"ns_cf_pm10";		air particle 2.5-10 µm concentration
+"ni_cf_temp_11";	air temperature particle measurement
+"ni_cf_feucht_11";	air humidity particle measurement
+"ni_boden_feucht";	indicator of earth humidity
+"ni_regen";		indicator for rain
+"ns_regen";		rain measurement [mm]
+"ns_wind_speed";	wind speed [m/s]
+
+_______________________________________________________________________________
+
+Diese Wetterdaten wurden am gleichen Platz lokal gemessen wo auch die HAARP Aktivität gemessen wird.
+So können diese Wetterdaten mit der HAARP Aktivität verglichen werden.
+
+Beschreibung der Datenbank-Felder:
+
+"nk_wetter_ic";	Datensatz-ID
+"dt_timestamp";	Zeitpunkt
+"ns_mbar";		Luftdruck
+"ni_feucht_11_out";	Allgemeine Luftfeuchtigkeit (+50 cm)
+"ns_temp_ds_erd";	Temperatur Erdreich (-20 cm)
+"ns_temp_ds_boden";	Bodentemperatur (+5 cm)
+"ns_temp_ds_out";	Allgemeine Termperatur (+50 cm)
+"ns_cf_pm1_0";		Partikel 0.3-1.0 µm Konzentration
+"ns_cf_pm2_5";		Partikel 1.0-2.5 µm Konzentration
+"ns_cf_pm10";		Partikel 2.5-10 µm Konzentration
+"ni_cf_temp_11";	Temperatur Partikelmessung
+"ni_cf_feucht_11";	Feuchtigkeit Partikelmessung
+"ni_boden_feucht";	Index Bodenfeuchtigkeit
+"ni_regen";		Regen Indikator
+"ns_regen";		Regenmesser [mm]
+"ns_wind_speed";	Windgeschwindigkeit [m/s]
